@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development(Android)
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on any Open Source project that will scale up my knowledge.
-- 📫 How to reach me : carlos.otieno353@gmail.com
+- 📫 How to reach me : carlos.otieno253@gmail.com
 
 <!---
 carlo7/carlo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
